@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\bin\Debug\net6.0\TestRunnerClassLibrary.deps.json
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\bin\Debug\net6.0\TestRunnerClassLibrary.dll
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\bin\Debug\net6.0\TestRunnerClassLibrary.pdb
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\TestRunnerClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\TestRunnerClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\TestRunnerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\TestRunnerClassLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\TestRunnerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\TestRunnerClassLibrary.dll
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\refint\TestRunnerClassLibrary.dll
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\TestRunnerClassLibrary.pdb
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\TestRunnerClassLibrary\obj\Debug\net6.0\ref\TestRunnerClassLibrary.dll

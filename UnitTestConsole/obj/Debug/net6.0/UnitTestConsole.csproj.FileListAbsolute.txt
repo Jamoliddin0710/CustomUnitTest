@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.exe
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.deps.json
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.runtimeconfig.json
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.dll
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\bin\Debug\net6.0\UnitTestConsole.pdb
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.dll
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\refint\UnitTestConsole.dll
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.pdb
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\UnitTestConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\C# Mavzular\UnitTestConsole\UnitTestConsole\obj\Debug\net6.0\ref\UnitTestConsole.dll

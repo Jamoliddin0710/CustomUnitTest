@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestResultMethod/1.0.0": {
+        "dependencies": {
+          "TestRunnerClassLibrary": "1.0.0",
+          "UnitTestConsole": "1.0.0"
+        },
+        "runtime": {
+          "TestResultMethod.dll": {}
+        }
+      },
+      "TestRunnerClassLibrary/1.0.0": {
+        "runtime": {
+          "TestRunnerClassLibrary.dll": {}
+        }
+      },
+      "UnitTestConsole/1.0.0": {
+        "runtime": {
+          "UnitTestConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestResultMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestRunnerClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnitTestConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

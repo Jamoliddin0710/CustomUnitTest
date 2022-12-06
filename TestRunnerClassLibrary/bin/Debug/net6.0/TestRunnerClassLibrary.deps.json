@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestRunnerClassLibrary/1.0.0": {
+        "runtime": {
+          "TestRunnerClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestRunnerClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
